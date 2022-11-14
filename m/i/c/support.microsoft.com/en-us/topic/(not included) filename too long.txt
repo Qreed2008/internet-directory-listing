@@ -1,0 +1,2 @@
+november-8-2022-kb5020632-cumulative-update-for-net-framework-3-5-and-4-8-1-for-microsoft-server-operating-system-version-21h2-9beaab1c-627d-4753-bd3e-e8241b718674
+november-8-2022-security-and-quality-rollup-for-net-framework-3-5-for-windows-8-1-rt-8-1-and-windows-server-2012-r2-kb5016268-a0a81cf6-4887-4151-8f26-412da5274b00
